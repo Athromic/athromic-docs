@@ -5,13 +5,13 @@
     "dark": "/logo/dark.svg"
   },
   "favicon": "/favicon.svg",
+   "url": "https://www.athromic.com",
   "colors": {
     "primary": "#06BCEE",
     "light": "#81D7F7",
     "dark": "#06A6D1",
     "ultraLight": "#F2F8FB",
     "ultraDark": "#0B0101",
-    "url": "https://www.athromic.com",
     "background": {
       "dark": "#111111"
     }
